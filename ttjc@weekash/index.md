@@ -9,11 +9,11 @@ looking-for: "job"
 description: "expert at CSS/HTML learning React"
 ---
 
-Hello myself Vikash Chandra. I'm a passionate React developer, interested in learning full stack web development.
+Hello I am Vikash Chandra. I'm a passionate React developer, interested in learning full stack web development.
 
 ### introduction
 
-I'm a BCA graduate learning Full Stack Web development , interested in continuous learning and building things that common people can use.
+I'm a BCA final year student learning Full Stack Web development , interested in continuous learning and building things that common people can use.
 
 ## why are you taking this challenge?
 
@@ -21,7 +21,7 @@ I'm new to web development but within a short span I have made a significant pro
 
 ## something interesting about you?
 
--I am a tech-geek and crazy about unboxing smartphones. I wish I would have a tech youtube channel in future.
+-I am a tech-geek and crazy about unboxing smartphones. I wish to have a tech youtube channel in future.
 
 -I'm interested in politics also.
 
